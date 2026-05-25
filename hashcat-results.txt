@@ -1,0 +1,25 @@
+Password Hash Cracking Results
+
+Hash Type:
+MD5
+
+Target Hash:
+f30aa7a662c728b7407c54ae6bfd27d1
+
+Attack Mode:
+Dictionary Attack
+
+Wordlist Used:
+wordlist.txt
+
+Recovered Password:
+hello123
+
+Status:
+Successfully Cracked
+
+Tool Used:
+Hashcat v7.1.2
+
+Conclusion:
+The weak password was successfully cracked using a simple dictionary attack, demonstrating the importance of strong password practices.
